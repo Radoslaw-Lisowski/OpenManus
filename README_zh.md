@@ -1,6 +1,4 @@
-<p align="left">
-    中文&nbsp ｜ &nbsp<a href="README.md">English</a>&nbsp
-</p>
+[English](README.md) | [繁體中文](README_tw.md) | 简体中文
 
 <p align="left">
     <a href="https://discord.gg/6dn7Sa3a"><img src="https://dcbadge.vercel.app/api/server/DYn29wFk9z?style=flat" alt="Discord Follow"></a>
@@ -71,6 +69,7 @@ api_key = "sk-..."  # 替换为真实 API 密钥
 ```
 
 ## 快速启动
+
 一行命令运行 OpenManus：
 
 ```bash
@@ -86,11 +85,13 @@ python run_flow.py
 ```
 
 ## 贡献指南
+
 我们欢迎任何友好的建议和有价值的贡献！可以直接创建 issue 或提交 pull request。
 
-或通过📧邮件联系 @mannaandpoem：mannaandpoem@gmail.com
+或通过 📧 邮件联系 @mannaandpoem：mannaandpoem@gmail.com
 
 ## 发展路线
+
 - [ ] 更优的规划系统
 - [ ] 实时演示功能
 - [ ] 运行回放
@@ -98,6 +99,7 @@ python run_flow.py
 - [ ] 全面的性能基准测试
 
 ## 交流群
+
 加入我们的飞书交流群，与其他开发者分享经验！
 
 <div align="center" style="display: flex; gap: 20px;">
